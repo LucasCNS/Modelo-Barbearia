@@ -1,0 +1,93 @@
+html {
+    font-family: 'PT Serif', Arial, Helvetica, sans-serif;
+}
+header {
+    background: #bbbbbb;
+}
+
+.caixa {
+    margin: 0 auto;
+    position: relative;
+    width: 940px;
+}
+
+.principal {
+    background: #cccccc;
+    padding: 30px;
+}
+
+.titulo-centralizado {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+#missao {
+    font-size: 20px;
+}
+
+em strong {
+    color: #FF0000;
+}
+
+.itens {
+    font-style: italic;
+    
+}
+
+.beneficios {
+    background: #ffffff;
+    padding: 20px;
+}
+
+.imagembeneficios {
+    width: 50%;
+}
+
+footer {
+    background:url(img/bg.jpg);
+    text-align: center;
+    padding: 10px 0;
+}
+
+.imagem-rodape {
+    width: 115px;
+}
+
+.texto-rodape {
+    color: white;
+    font-size: 14px;
+}
+
+nav {
+    position: absolute;
+    top: 110px;
+    right: 35px;
+}
+
+nav li {
+    display: inline;
+    margin: 0 0 0 50px;
+}
+
+nav a {
+    text-transform: uppercase;
+    color: black;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    color: white;
+}
+
+.comositens {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
